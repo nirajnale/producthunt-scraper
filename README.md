@@ -123,15 +123,6 @@ python profile_scraper.py
 | Encoding issues opening CSV in Excel | Open with UTF-8, or re-save using pandas with `encoding='utf-8-sig'`. |
 
 ---
-
-## 🧾 License & Contribution
-
-- **License:** MIT (add LICENSE file if you want to publish)  
-- **Contributions:** PRs and issues are welcome — particularly for improving selectors, adding rate limiting, and adding more profile fields.
-
----
-
 ## 🤝 Contributors
 
-**Developed by:** Niraj Vijaysinh Nale  
-**For:** Omniagentic AI — Product Hunt Scraper Automation
+**Developed by:** Niraj Vijaysinh Nale 
